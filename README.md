@@ -1,2 +1,3 @@
 # Meditation-tool
-Easy meditation tool to help people meditate easily. 
+
+https://github.com/Jakeschincariol/instagram-agent-skill
